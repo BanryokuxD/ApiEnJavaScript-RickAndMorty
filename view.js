@@ -24,7 +24,7 @@ const CharacterView = {
     },
   
     showCharacterInfo: function (character) {
-      alert(`Nombre: ${character.name}\nEstado: ${character.status}\nEspecie: ${character.species}\nLocalizaci&oacuten: ${character.location.name}`);
+      alert(`Nombre: ${character.name}\nEstado: ${character.status}\nEspecie: ${character.species}\nLocalización: ${character.location.name}`);
     }
   };
   
